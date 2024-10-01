@@ -1,0 +1,10 @@
+count=0
+n=1
+sum=0
+while(count<10):
+    if(n%2!=0):
+        sum+=n
+        count+=1
+        print(n)
+    n+=1
+print(sum)
