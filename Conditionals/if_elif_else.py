@@ -9,3 +9,11 @@ elif(Destn=="Kolakata" or Destn=="kolkata" or Destn=="KOLKATA"):
 else:
     print("No information about your destination")
 print("Thank you")
+
+x = 10
+if (x == 10):
+    print("X is exaclty 10")
+elif(x<10):
+    print("x is less than 10")
+else:
+    print("x is greater than 10")
